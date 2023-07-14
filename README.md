@@ -3,7 +3,7 @@
 
 ``` bash
 lib
-|
+│
 ├───core
 │   ├───constants
 │   ├───exceptions
