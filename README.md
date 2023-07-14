@@ -1,6 +1,7 @@
 # BlocArchitectureStartupProject
 
-lib
+``` bash
+lib 
 ├───core
 │   ├───constants
 │   ├───exceptions
@@ -16,3 +17,5 @@ lib
 └───screens
 ├───home_screen
 └───widgets
+
+```
